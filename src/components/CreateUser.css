@@ -1,0 +1,10 @@
+.row{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 3%;
+    
+}
+
+.color-white{
+    color: rgb(11, 10, 9);
+}
